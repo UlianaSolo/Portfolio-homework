@@ -16,13 +16,18 @@
   --second-bg-color: #2b313b;
   --text-color: #fff;
   --main-color: #0ef;
-*/
 
-:root {
   --bg-color: #313053;
   --second-bg-color: #3a3868;
   --text-color: #fff;
   --main-color: #52d1e2;
+*/
+
+:root {
+  --bg-color: #186375;
+  --second-bg-color: #237b90;
+  --text-color: #fff;
+  --main-color: #ff9dab;
 }
 
 html {
